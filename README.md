@@ -1,2 +1,2 @@
-# practica2022NatalyAlavarez
+# practica2022NatalyAlvarez
 Proyecto realizado en Java
